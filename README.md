@@ -51,7 +51,7 @@ npm start
 ```
 **A aplicação será aberta em http://localhost:3001.**
 
-##🗂️ Estrutura do Projeto
+## 🗂️ Estrutura do Projeto
 ```plaintext
 📁 Spotify-Imersao-React/
 ├── 📂 node_modules/       # Dependências do Node.js
