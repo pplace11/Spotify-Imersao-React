@@ -73,3 +73,4 @@ npm start
 ```
 ## 📸 Preview
 Aqui está uma visão geral da interface da aplicação:
+![Sptify Imersao React Preview](src/assets/web/pagina.png)
