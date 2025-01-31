@@ -49,7 +49,7 @@ cd Spotify-Imersao-React
 ```bash
 npm start
 ```
-**A aplicação será aberta em http://localhost:3000.**
+**A aplicação será aberta em http://localhost:3001.**
 
 ##🗂️ Estrutura do Projeto
 ```plaintext
