@@ -1,4 +1,4 @@
-# Spotify Imersão React
+# Spotify Imersão React🎶
 O **Spotify Imersão React** é uma aplicação web desenvolvida em React durante a Imersão Alura. 
 Permite criar e gerenciar playlists, descobrir novos artistas e acompanhar tendências musicais, 
 tudo com uma interface amigável.
